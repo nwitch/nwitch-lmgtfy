@@ -1,5 +1,7 @@
 # nwitch-lmgtfy
 
+[![Dependency Status](https://gemnasium.com/nwitch/nwitch-lmgtfy.svg)](https://gemnasium.com/nwitch/nwitch-lmgtfy)
+
 nwitch plugin for lmgtfy.
 
 ## Installation

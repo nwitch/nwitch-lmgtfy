@@ -1,0 +1,20 @@
+{
+  "name": "nwitch-lmgtfy",
+  "version": "0.0.0",
+  "description": "nwitch plugin for lmgtfy",
+  "keywords": [
+    "nwitch",
+    "nwitch-plugin"
+  ],
+  "repository": "nwitch/nwitch-lmgtfy",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "dependencies": {
+    "behest": "^0.0.2"
+  }
+}

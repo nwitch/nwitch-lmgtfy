@@ -14,7 +14,7 @@ function lmgtfy() {
       var command = behest(message);
       if (command.command === 'lmgtfy') {
         var destination = to.charAt(0) === '#' ? to : from;
-        irc.send(destination, 'http://lmgtfy.com/?q=' + command.params.join('+'));
+        irc.send(destination, from + ': http://lmgtfy.com/?q=' + command.params.join('+'));
       }
     });
   };

@@ -54,7 +54,7 @@ client.use(lmgtfy());
 ## Installation
 
 ``` bash
-$ npm install --save nwitch-lmgtfy
+$ npm install nwitch-lmgtfy
 ```
 
 ## API

@@ -1,5 +1,6 @@
 # nwitch-lmgtfy
 
+[![Build Status](https://travis-ci.org/nwitch/nwitch-lmgtfy.svg)](https://travis-ci.org/nwitch/nwitch-lmgtfy)
 [![Dependency Status](https://gemnasium.com/nwitch/nwitch-lmgtfy.svg)](https://gemnasium.com/nwitch/nwitch-lmgtfy)
 
 [nwitch][] (and [slate-irc][]) plugin for [lmgtfy](http://lmgtfy.com/).
